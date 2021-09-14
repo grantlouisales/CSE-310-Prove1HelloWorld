@@ -9,6 +9,6 @@ This shows how to say hello in python.
 
 ## Useful links
 
-* [Python Website](python.org)
+* [Python Website](https://www.python.org/)
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Youtube Demo]()
