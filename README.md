@@ -1,14 +1,19 @@
-# CSE-310-Prove1HelloWorld
+# HelloWorld
 
-This shows how to say hello in python.
+This program prints the phrase Hello World in the visual studio code terminal. This task was done using the python programming language.
+
+My purpose is creating this software was to print out Hello World to improve my programming skills.
+
+## Vidoe Demo
+
+* [Youtube Demo]()
 
 ## Tools
 * Python
 * Visual Studio Code
 * Git / GitHub
 
-## Useful links
+## Useful Websites
 
 * [Python Website](https://www.python.org/)
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
-* [Youtube Demo]()
